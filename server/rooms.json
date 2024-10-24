@@ -1,0 +1,68 @@
+[
+    {
+        "name":"Rigg Hotel ",
+        "type":"Non-Dulex",
+        "maxCount":"3",
+        "rentPerDay":"80000",
+        
+        "phoneNumber":"09142562845",
+        "imgUrl":[
+          "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486196908.jpg?k=743b76af131f041406f7d17a8415153e28d46e1e704eee3cda159958cc6d6254&o=&hp=1",
+             "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486196906.jpg?k=94fa77a89f67278758c8235dd654bb521bbe02457d7296676b07b777c691d37f&o=&hp=1",
+             "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486411593.jpg?k=cf6fb7eb94fa379ced94118cdf0019820f919c933ee921d28d2c2c81feda2872&o=&hp=1"
+            
+        ],
+        "currentBooking":[],
+        "description":"At the hotel, every room is fitted with a desk, a flat-screen TV, a private bathroom, bed linen and towels. All units will provide guests with a wardrobe and a kettle.Staff at Rigg Hotel are always available to provide guidance at the reception."
+        
+    },
+    {
+        "name":"Nordic Hotel Lagos",
+        "type":"Dulex",
+        "maxCount":"3",
+        "rentPerDay":"120000",
+        
+        "phoneNumber":"08172980848",
+        "imgUrl":[
+           "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318110349.jpg?k=7419883c10702a3f3019bbda45ee2c87187cadccece8d8bf77c680f6b929a60b&o=&hp=1",
+           "https://cf.bstatic.com/xdata/images/hotel/max1024x768/316930509.jpg?k=0d2f86f8e59ad8869f17c90d1192f14509a9ac0eb0b7f752b98c942682fdce0e&o=&hp=1",
+           "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318109898.jpg?k=57009622a88a28d990c7d9d9a0e39300639f6f81eb78eb4afa0c85656d7c830d&o=&hp=1"
+
+        ],
+        "currentBooking":[],
+        "description":"The rooms come with a flat-screen TV with cable channels, fridge, a kettle, a shower,a desk, bed linen and towels.. Rooms are also equipped with a private bathroom."
+
+    },
+    {
+        "name":"JADA HOTEL and SUITES",
+        "type":"Non-Dulex",
+        "maxCount":"3",
+        "rentPerDay":"50000",
+        
+        "phoneNumber":"07097967876",
+        "imgUrl":[
+           "https://cf.bstatic.com/xdata/images/hotel/max1024x768/604347450.jpg?k=863e76cbae4eee4e167055bc552313be5050b79de4dcc2161e3f3611e24ea8d0&o=&hp=1",
+           "https://cf.bstatic.com/xdata/images/hotel/max1024x768/604347418.jpg?k=93fcc7ad45aa13d656f4767a8dd151115b9da3756a98bc19d012b5a94b2b2483&o=&hp=1",
+           "https://cf.bstatic.com/xdata/images/hotel/max1024x768/604347404.jpg?k=0ec33c24729c56315115b0fc04ff025e82598705763f27f9e7c7d9acbb320443&o=&hp=1"
+        ],
+        "currentBooking":[],
+        "description":"Conveniently located in the centre of Lagos, JADA HOTEL and SUITES offers air-conditioned rooms with free WiFi, free private parking and room service. Offering a restaurant, the property also has a garden and a terrace. Guests can have a drink at the bar.At the hotel, all rooms are fitted with a desk, a flat-screen TV, a private bathroom, bed linen and towels.All guest rooms will provide guests with a wardrobe and a kettle."
+    },
+    {
+    "name":"Villa Monument Hotel",
+    "type":"Dulex",
+    "maxCount":"3",
+    "rentPerDay":"150000",
+    
+    "phoneNumber":"08082968846",
+    "imgUrl":[
+       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338281518.jpg?k=4ff1ad78c087a9485e7e7f1eb6a8ee3a763915264bc74f16f341df3b8846fb60&o=&hp=1",
+       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248984273.jpg?k=507a708ad300f5c9aa2b1a536069a71766067528b91d09610f1e306c04b689d6&o=&hp=1",
+       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250634611.jpg?k=696888a6ef9d5003d589f44b9c7cc8335f9d99e81cab434973ea1b5fed97e084&o=&hp=1"
+    ],
+    "currentBooking":[],
+    "description":"Every room at this hotel is air conditioned and comes with a flat-screen TV. Lagos Oriental Hotel features free WiFi"
+}
+    
+ 
+]
